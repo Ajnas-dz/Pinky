@@ -2,16 +2,16 @@
 ### We will always remember you..
 
 <div align="center">
-  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83832372?v=4" width="200" height="200"/>
+  <img border-radius: 15px src="https://i.imgur.com/bNYbdXa.jpeg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="PinkyMwol" src="https://img.shields.io/badge/afnanplk-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="ChinjuMwol" src="https://img.shields.io/badge/Ajnas-dz-ChinjuMwol?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://chat.whatsapp.com/ENzZrW0WgMQKnOX6kiOhtZ"><img title="join support" src="https://img.shields.io/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://chat.whatsapp.com/ENzZrW0WgMQKnOX6kiOhtZ"><img title="join support" src="https://img.shields.io/badge/join_support-Ajnas-dz/ChinjuMwol?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/afnanplk">afnanplk</a> to make it public
+Project created by <a href="https://github.com/Ajnas-dz">Ajnas-dz</a> to make it public
     <br>
        | © |
         Reserved |
@@ -55,7 +55,7 @@ the user is responsible.
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@afnanplk/PinkyMwol-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/afnanplk/Pinky)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ajnas-dz/Pinky)
      </div>
 <br>
 <br >
